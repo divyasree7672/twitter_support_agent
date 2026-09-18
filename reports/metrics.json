@@ -1,0 +1,10 @@
+{
+  "gold_n": 200,
+  "proposed_accuracy": 0.865,
+  "proposed_macro_f1": 0.8447360385197777,
+  "majority_accuracy": 0.49,
+  "auto_handle_rate": 0.02,
+  "auto_intent_accuracy": 1.0,
+  "mean_top1_retrieval_similarity": 1.0,
+  "escalation_rate": 0.98
+}

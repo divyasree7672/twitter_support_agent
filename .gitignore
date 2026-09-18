@@ -5,3 +5,6 @@ models/*
 __pycache__/
 *.pyc
 .streamlit/
+
+# Virtual environment
+.venv/
